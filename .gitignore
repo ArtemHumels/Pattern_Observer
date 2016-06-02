@@ -1,0 +1,11 @@
+##### IDEs #####
+*.iml
+.idea
+.classpath
+.project
+.settings
+
+##### Folders #####
+target
+/nbactions.xml
+
